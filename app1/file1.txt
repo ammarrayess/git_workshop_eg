@@ -1,6 +1,6 @@
 this should create a conflict file one and now conflict in egypt!
 this im editing this again one
-this should create a conflict file one
+this should create a conflict file one 2
 
 this is for the git workshop
 
